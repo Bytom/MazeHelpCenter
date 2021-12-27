@@ -1,2 +1,1 @@
-# MazeHelpCenter
-HelpCenter for MAZE
+Support for MAZE
