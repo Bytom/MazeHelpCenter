@@ -1,6 +1,10 @@
+# Summary
+
+* [Welcome](README.md)
+
 # 帮助中心文档
 
-欢迎使用MOV帮助中心文档
+欢迎使用Maze帮助中心文档
 
 ------
 
