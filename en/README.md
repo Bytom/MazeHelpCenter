@@ -10,7 +10,9 @@ Welcome to Maze Help Center
 
 ### Activity
 
-- [Cryptosanguo NFT Airdrop](activity/cryptosanguo-nft-airdrop.md)
+- [CryptoSanguo NFT Airdrop](activity/cryptosanguo-nft-airdrop.md)
+- [1000 limited CryptoSanguo NFTs Airdrop is coming!!!](activity/cryptosanguo-nft-rule.md)
+- [Welcome to CryptoSanguo NFT Paradise](activity/cryptosanguo-nft-paradise.md)
 
 ### Maze Protocol
 
