@@ -1,43 +1,46 @@
-## 邀请好友预注册迷宫协议活动教程
+## A tutorial about how to register Maze platform and invite others
 
-### 移动端用户如何参与活动
+### Ⅰ. Tutorial for Mobile
 
-1.在活动期间，用户将Bycoin更新至V2.8.2版本，在Bytom主网下点击【Maze】进入活动页面。
+1.1 During the event, users upgrate Bycoin to version V2.8.2 and click [Maze], and enter the event page.
 
-**初始邀请码：MYTYYYYR**
-
-Bycoin下载地址：bycoin.im
+Download Bycoin: <https://blockmeta.com/wallet/en/>
 
 ![](../images/nftnew/nftnew1.png)
 
-2.初次进入页面的用户，需要点击【获取/绑定邀请码】按钮。输入好友的邀请码点击确认钱包签名绑定后会获得100积分，点击跳过确认钱包签名后将不会获得积分。注意：每个用户地址只拥有一次绑定好友邀请码的机会，点击确认绑定或跳过绑定确认钱包签名后，将无法更改或再次进行绑定。
+1.2 Users who enter the page for the first time need to click [Get/Bind Invite Code]. Enter invite code, confirm signature, then bind, you will receive 100 points. Click “Skip” will not get points this time.
+Tips: Each address has only one chance to bind friend’s invite code. After you click [Confirm] or [Skip], and confirm signature, you will not able to change or bind again.
+
+> If you don’t have any invite Code, here is Maze platform’s initial invite Code: MYTYYYYR
 
 ![](../images/nftnew/nftnew2.png)
 
-3.确认输入邀请码/跳过输入邀请码后，页面中将显示用户自己的专属邀请码，用户可以通过分享，好友输入该邀请码进行绑定来获取积分。邀请绑定成功后，该邀请码归属者与被直接邀请的好友，都会获得100积分，直接邀请的好友再次邀请好友，初始邀请者也可获得50积分。
+1.3 After entering/skipping invite code, the page will display your own invite code, you can share with your friends. When your friend’s account is successfully bound, both you and your friends will get 100 points. And you will also get 50 points when the invited friend successfully invites others.
 
 ![](../images/nftnew/nftnew3.png)
 
-4.用户的直接邀请人数与二级邀请人数将会在页面最下方显示记录，供用户自行查看。
+1.4 The number of Tier 1 and Tier 2 invitaitons will be displayed at the bottom of page for users to check.
 
 ![](../images/nftnew/nftnew4.png)
 
-5.用户可以通过其他用户分享的消息中的网址，直接前往活动页面
+1.5 Users can access event page through the link in the information shared by others
 
 ![](../images/nftnew/nftnew5.png)
 
-### Web端用户如何参加活动
+### Ⅱ. Tutorial for web
 
-1.Web端用户需要提前安装插件钱包Byone确认为Bytom网络下，点击应用中的【Maze】访问活动页面。 
+Maze platform website: https://maz.network
 
-**初始邀请码：MYTYYYYR** 
-
-迷宫协议官网：https://maz.network
+2.1 Users (Web) need to install Byone (browser plug-in), click [Maze] to event page in Bytom network
 
 ![](../images/nftnew/nftnew6.png)
 ![](../images/nftnew/nftnew7.png)
 
-2.初次进入页面的用户，需要点击【获取/绑定邀请码】按钮。输入好友的邀请码点击确认钱包签名绑定后会获得100积分，点击跳过确认钱包签名后将不会获得积分。注意：每个用户地址只拥有一次绑定好友邀请码的机会，点击确认绑定或跳过绑定确认钱包签名后，将无法更改或再次进行绑定。
+2.2 Users who enter the page for the first time need to click [Get/Bind Invite Code]. Enter invite code, confirm signature, then bind, you will receive 100 points. Click “Skip” will not get points this time.
+
+Tips: Each address has only one chance to bind friend’s invite code. After you click [Confirm] or [Skip], and confirm signature, you will not able to change or bind again.
+
+> If you don’t have any invite Code, here is Maze platform’s initial invite Code: MYTYYYYR
 
 ![](../images/nftnew/nftnew8.png)
 
@@ -45,15 +48,15 @@ Bycoin下载地址：bycoin.im
 
 ![](../images/nftnew/nftnew10.png)
 
-3.确认输入邀请码/跳过输入邀请码后，页面中将显示用户自己的专属邀请码，用户可以通过分享，好友输入该邀请码进行绑定来获取积分。邀请绑定成功后，该邀请码归属者与被直接邀请的好友，都会获得100积分，直接邀请的好友再次邀请好友，初始邀请者也可获得50积分。
+2.3 After entering/skipping invite code, the page will display your own invite code, you can share with your friends. When your friend’s account is successfully bound, both you and your friends will get 100 points. And you will also get 50 points when the invited friend successfully invites others.
 
 ![](../images/nftnew/nftnew11.png)
 
-4.用户的直接邀请人数与二级邀请人数将会在页面右侧显示记录，供用户自行查看。
+2.4 he number of Tier 1 and Tier 2 invitaitons will be displayed at the bottom of page for users to check.
 
 ![](../images/nftnew/nftnew12.png)
 
-5.用户可以通过其他用户分享的消息中的网址，输入至浏览器中直接前往活动页面。
+2.5 Users can access event page through the link in the information shared by others
 
 ![](../images/nftnew/nftnew13.png)
 ![](../images/nftnew/nftnew14.png)
