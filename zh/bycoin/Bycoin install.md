@@ -4,7 +4,7 @@
 
 访问Bycoin钱包官网：[https://blockmeta.com/wallet/](https://blockmeta.com/wallet/) 点击【立即下载】或者【谷歌应用商店下载】
 
-![图片](F:\images\install\install1.png)
+![图片](../images\bycoinInstall\install1.png)
 
 **1.2 IOS设备用户**
 
@@ -20,66 +20,66 @@
 
 点击创建钱包
 
-![](F:\images\install\install2.jpg)
+![](../images\bycoinInstall\install2.jpg)
 
 **2.2 输入新建钱包信息**
 
 输入新建钱包确认密码，再次输入确认密码
 
-![](F:\images\install\install3.jpg)
+![](../images\bycoinInstall\install3.jpg)
 
 
 **2.3 备份助记词**
 
 请牢记助记词，如有丢失，则该钱包里面的资产将无法找回
 
-![](F:\images\install\install4.jpg)
+![](../images\bycoinInstall\install4.jpg)
 
 
 **2.4 验证助记词**
 
 成功备份、验证助记词后，创建成功
 
-![](F:\images\install\install5.jpg)
+![](../images\bycoinInstall\install5.jpg)
 
 
 **2.5 创建成功**
 
 成功备份、验证助记词后，进入Bycoin首页
 
-![](F:\images\install\install6.jpg)
+![](../images\bycoinInstall\install6.jpg)
 
 
 ### **3.导入钱包**
 
 **3.1选择导入钱包**
 
-![](F:\images\install\install7.jpg)
+![](../images\bycoinInstall\install7.jpg)
 
 **3.2选择导入钱包方式**
 
 可通过助记词或者KEYSTORE进行导入钱包
 
-![](F:\images\install\install8.jpg)
+![](../images\bycoinInstall\install8.jpg)
 
 
 **3.3 输入助记词导入钱包（推荐）**
 
 按照备份顺序输入助记词
 
-![](F:\images\install\install10.jpg)
+![](../images\bycoinInstall\install10.jpg)
 
 
 **3.4 设置钱包名称和密码**
 
 助记词识别正确后，设置导入钱包名称和确认密码 
 
-![](F:\images\install\install11.jpg)
+![](../images\bycoinInstall\install11.jpg)
 
 
 **3.5 导入成功**
 
 钱包导入成功后，进入Bycoin首页
 
-![](F:\images\install\install6.jpg)
+![](../images\bycoinInstall\install6.jpg)
 
