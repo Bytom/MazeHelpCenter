@@ -2,7 +2,7 @@
 
 点击侧链，进入跨链页面，选择转出至主链
 
-<img src="F:\image\bycoin-withdraw.jpg" style="zoom:25%;" />
+<img src="../images\Withdraw\bycoin-withdraw.jpg">
 
 选择需要转出的资产和数量
 
