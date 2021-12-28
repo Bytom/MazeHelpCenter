@@ -21,6 +21,9 @@
 ### Bycoin基础教程
 
 - [海外ID注册教程](/bycoin/Overseas-ID-registration-tutorial.md)
+- [安装Bycoin](/bycoin/bycoin-install.md)
+- [Bycoin如何跨链充值](/bycoin/bycoin-crosschain-pay.md)
+- [Bycoin如何跨链提现](/bycoin/bycoin-withdraw.md)
 
 ### Byone基础教程
 
