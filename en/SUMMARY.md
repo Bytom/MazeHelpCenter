@@ -14,6 +14,7 @@
 
 ### Maze Protocol
 
+- [CryptoSanguo: An NFT that you won’t worry about selling](maze/cryptosanguo-introduction.md)
 
 ### Bycoin Tutorial
 

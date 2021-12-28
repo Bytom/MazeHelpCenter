@@ -1,0 +1,17 @@
+## CryptoSanguo: An NFT that you won’t worry about selling
+
+This year can be the “Year of NFTs”. The popularity of NFTs has made crypto officially “out of the loop”, and more and more people are paying attention to it and participating in it, which has also given rise to many different use cases. GameFi, SocialFi and DAO have all given different ways to play and value to NFTs, making it not only a trading item or a collectible, but also a symbol of identity consensus and an exchange mark for multiple benefits and rights. In addition, more and more traditional enterprises and brands are also announcing the issuance of their own NFTs, so as to further broaden their own brand influence.
+
+Therefore NFT is regarded as a new type of cultural connotation carrier. Unlike traditional cultural artworks in physical form, NFT is permanently stored on the chain once mint, and the flow of ownership is open and transparent, and is not restricted by time and space, and the speed and scope of dissemination far exceeds that of traditional physical artworks, making it quite promising.
+
+Nowadays, different genres and forms of NFT are emerging, however, the vast majority of them are western or modern styles. In order to better enrich the style of NFTs and meet the aesthetic needs of different audiences, it is planned to create a group of important heroes of the Three Kingdoms into the on-chain NFTs. The Three Kingdoms, one of the four classic Chinese masterpieces, has become a cultural icon of its generation with its deeply rooted characters.
+
+CryptoSanguo not only contains cultural connotations, but also extends to a variety of settings and gameplay. Unlike Loot and other projects, we believe that numerical attributes can better describe the basic characteristics of NFT than text descriptions, and it is also easier to “interpret” and “compile” for specific applications. Therefore, each hero NFT that will be launched soon will come with a set of preset attribute values, directly linked to its rarity. In addition, Bytom will subsequently launch reproduction protocols, and hero NFTs can be reproduced and evolved based on reproduction protocols to continuously improve the richness of the IP.
+
+It is worth mentioning the innovation in the NFT trading model. The CryptoSanguo will be traded on Maze platform, an NFT trading platform designed by Bytom. Unlike Opensea, the platform adopts an aggressive trading model, that is, all NFTs on this platform will always be in circulation, and the selling price of NFTs is not arbitrarily determined by holders, but by the margin they pay, the more they pay, the higher the pricing, and more they get when they sell. Therefore, in the long run, the selling price of NFT on the platform will eventually be consistent with the market’s value judgment of NFT, and the reasonableness of the pricing further promotes the circulation of NFT. Therefore, in the long run, the selling price of NFT on the this platform will eventually be consistent with the market’s judgment on the value of NFT, and the reasonableness of the pricing further promotes the circulation of NFT.
+
+Besides, CryptoSanguo will also bind a series of community benefits to give NFT holders more rights. Specific rights and how to get CryptoSanguo airdrop will be grandly revealed in the next article.
+
+Maze platform whitepaper: https://cdn.bytom.io/res/Whitepaper-MAZ-protocol-en.pdf
+
+Email: bytomblockchain@gmail.com
