@@ -2,26 +2,23 @@
 
 * [Welcome](README.md)
 
-# 帮助中心文档
-
-欢迎使用Maze帮助中心文档
-
 ------
 
-### 最新通知
+### Announcement
+
+- [Cryptosanguo NFT Airdrop](activity/cryptosanguo-nft-airdrop.md)
+
+### Activity
+
+- [Cryptosanguo NFT Airdrop](activity/cryptosanguo-nft-airdrop.md)
+
+### Maze Protocol
 
 
-### 活动
-
-- [【置顶】邀请好友，领取限定NFT活动](/领取限定NFT活动.md)
-
-### Maze迷宫协议
+### Bycoin Tutorial
 
 
-### Bycoin基础教程
+### Byone Tutorial
 
 
-### Byone基础教程
-
-
-### 协议条款
+### Terms of agreement
