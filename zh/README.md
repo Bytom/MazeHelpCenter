@@ -27,5 +27,9 @@
 
 ### Byone基础教程
 
+- [Bycoin至Byone无缝迁移方案](/byone/Bycoin-to-Byone.md)
+- [MOV Web连接Byone钱包](/byone/Web-connect-Byone.md)
+- [Web跨链教程](/byone/Web-crosschain.md)
+
 
 ### 协议条款
