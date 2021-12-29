@@ -27,36 +27,52 @@
 
 ![](../images/MOV-connect-Byone/web-connect5.png)
 ![](../images/MOV-connect-Byone/web-connect6.png)
+
 点击谷歌浏览器有上角设置按钮，依次选择更多工具——扩展程序，进入插件管理页面
+
 ![](../images/MOV-connect-Byone/web-connect23.png)
+
 打开右上角的“开发者模式”，将刚下载好的离线安装包拖拽至扩展程序栏，浏览器将识别文件并自动安装
+
 ![](../images/MOV-connect-Byone/web-connect7.png)
+
 加载成功后即完成安装
 
 ### 2、创建新钱包
 
 点击Byone插件，首次访问将会弹出页面提示您创建新钱包，或恢复您已有的钱包
+
 ![](../images/MOV-connect-Byone/web-connect8.png)
+
 请按流程创建钱包。（设置钱包名称、密码——备份助记词——验证助记词）
 
 务必请您保存好生成的助记词，这是您恢复钱包的唯一途径。一旦助记词丢失您钱包内的数字资产将无法找回。
+
 ![](../images/MOV-connect-Byone/web-connect9.png)
 ![](../images/MOV-connect-Byone/web-connect10.png)
 ![](../images/MOV-connect-Byone/web-connect11.png)
 ![](../images/MOV-connect-Byone/web-connect12.png)
+
 创建成功后，即可使用您的Byone
 
 ![](../images/MOV-connect-Byone/web-connect14.png)
 
 ### 3、导入钱包
 
-选择导入钱包，您可通过助记词、keystore、keystore纯文本三种方式导入
+选择导入钱包，您可通过助记词、keystore、keystore纯文本三种方式导入(推荐助记词导入)
+
 ![](../images/MOV-connect-Byone/web-connect13.png)
+
 请依次按顺序输入您的助记词，注意空格
+
 ![](../images/MOV-connect-Byone/web-connect16.png)
+
 助记词识别正确后，请您设置钱包名称和密码
+
 ![](../images/MOV-connect-Byone/web-connect17.png)
+
 导入成功
+
 ![](../images/MOV-connect-Byone/web-connect18.png)
 
 ### 4、访问MOV-web并连接Byone
@@ -64,11 +80,19 @@
 安装完成后，首次访问MOV-web需要先连接Byone，才可正常使用相关功能
 
 首先将Byone切换到侧链，点击顶部下拉箭头
+
 ![](../images/MOV-connect-Byone/web-connect19.png)
+
 选择侧链 Sidechain
+
 ![](../images/MOV-connect-Byone/web-connect20.png)
+
 点击连接Byone
+
 ![](../images/MOV-connect-Byone/web-connect21.png)
+
 连接成功后，页面已显示您的钱包连接状态信息
+
 ![](../images/MOV-connect-Byone/web-connect22.png)
+
 接下来您已经可以使用MOV-web的相关功能了！
