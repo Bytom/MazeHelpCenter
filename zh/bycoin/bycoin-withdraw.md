@@ -1,12 +1,16 @@
 ## Bycoin如何跨链提现
 
-点击侧链，进入跨链页面，选择转出至主链
+点击右上角Bytom，选择你要提现的资产
 
-<img src="../images\Withdraw\bycoin-withdraw.jpg">
+<img src="../images\Withdraw\bycoin-withdraw1.jpg" >
 
-选择需要转出的资产和数量
+选择需要转出的资产（这里我们选择Bitcoin）
 
-填写需要转账的地址
+<img src="../images\Withdraw\bycoin-withdraw2.jpg">
+
+点击转账，填入转账地址及数量
+
+<img src="../images\Withdraw\bycoin-withdraw3.jpg">
 
 点击确定并输入密码，转账成功。
 
