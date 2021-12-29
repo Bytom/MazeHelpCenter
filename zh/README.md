@@ -10,7 +10,7 @@
 
 ### 活动
 
-- [邀请好友，领取限定NFT活动](/activity/cryptosanguo-nft-airdrop.md)
+- [邀请好友，领取限定NFT活动](activity/cryptosanguo-nft-airdrop.md)
 - [加密三国知多少？百科竞赛开启，瓜分活动大奖](activity/cryptosanguo-nft-paradise.md)
 
 ### Maze迷宫协议
@@ -20,16 +20,16 @@
 
 ### Bycoin基础教程
 
-- [海外ID注册教程](/bycoin/Overseas-ID-registration-tutorial.md)
-- [安装Bycoin](/bycoin/bycoin-install.md)
-- [Bycoin如何跨链充值](/bycoin/bycoin-crosschain-pay.md)
-- [Bycoin如何跨链提现](/bycoin/bycoin-withdraw.md)
+- [海外ID注册教程](bycoin/Overseas-ID-registration-tutorial.md)
+- [安装Bycoin](bycoin/bycoin-install.md)
+- [Bycoin如何跨链充值](bycoin/bycoin-crosschain-pay.md)
+- [Bycoin如何跨链提现](bycoin/bycoin-withdraw.md)
 
 ### Byone基础教程
 
-- [Bycoin至Byone无缝迁移方案](/byone/Bycoin-to-Byone.md)
-- [MOV Web连接Byone钱包](/byone/Web-connect-Byone.md)
-- [Web跨链教程](/byone/Web-crosschain.md)
+- [Bycoin至Byone无缝迁移方案](byone/Bycoin-to-Byone.md)
+- [MOV Web连接Byone钱包](byone/Web-connect-Byone.md)
+- [Web跨链教程](byone/Web-crosschain.md)
 
 
 ### 协议条款
