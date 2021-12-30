@@ -20,8 +20,14 @@ Welcome to Maze Help Center
 
 ### Bycoin Tutorial
 
+- [How to install Bycoin](bycoin/Bycoin-install.md)
+- [How to recharge cross-chain Bycoin](bycoin/Bycoin-crosschain-pay.md)
+- [How to withdraw cross-chain Bycoin](bycoin/Bycoin-withdraw.md)
 
 ### Byone Tutorial
 
+- [Bycoin to Byone seamless migration solution](byone/Bycoin-to-Byone.md)
+- [MOV Web connects Byone wallet](byone/Web-connect-Byone.md)
+- [Web cross-chain tutorial](byone/Web-crosschain.md)
 
 ### Terms of agreement

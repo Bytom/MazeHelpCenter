@@ -15,6 +15,7 @@
 点击“添加至Chome”，并从弹窗页面选择添加扩展程序
 
 ![](../images/web-connect/web-connect2.png)
+
 ![](../images/web-connect/web-connect3.png)
 
 安装将会自动进行，安装完成后您可以在插件栏找到您的Byone，并通过锁定按钮将其锁定在工具栏
@@ -26,6 +27,7 @@
 鼠标悬停至“CRX文件安装”，点击“下载”，将文件名为"byone.crx"的离线安装包下载至本地。 
 
 ![](../images/web-connect/web-connect5.png)
+
 ![](../images/web-connect/web-connect6.png)
 
 点击谷歌浏览器有上角设置按钮，依次选择更多工具——扩展程序，进入插件管理页面
@@ -40,7 +42,7 @@
 
 ### 2、创建新钱包
 
-点击Byone插件，首次访问将会弹出页面提示您创建新钱包，或恢复您已有的钱包
+点击Byone插件，首次访问将会弹出页面提示您创建新钱包，或导入您已有的钱包
 
 ![](../images/web-connect/web-connect8.png)
 
@@ -49,8 +51,7 @@
 务必请您保存好生成的助记词，这是您恢复钱包的唯一途径。一旦助记词丢失您钱包内的数字资产将无法找回。
 
 ![](../images/web-connect/web-connect9.png)
-![](../images/web-connect/web-connect10.png)
-![](../images/web-connect/web-connect11.png)
+
 ![](../images/web-connect/web-connect12.png)
 
 创建成功后，即可使用您的Byone
@@ -61,9 +62,7 @@
 
 选择导入钱包，您可通过助记词、keystore、keystore纯文本三种方式导入(推荐助记词导入)
 
-![](../images/web-connect/web-connect13.png)
-
-请依次按顺序输入您的助记词，注意空格
+请依次按顺序输入您的助记词，用空格隔开
 
 ![](../images/web-connect/web-connect16.png)
 
@@ -89,10 +88,10 @@
 
 点击连接Byone
 
-![](../images/web-connect/web-connect21.png)
+![](../images/web-connect/web-connect22.png)
 
 连接成功后，页面已显示您的钱包连接状态信息
 
-![](../images/web-connect/web-connect22.png)
+![](../images/web-connect/web-connect21.png)
 
 接下来您已经可以使用MOV-web的相关功能了！
