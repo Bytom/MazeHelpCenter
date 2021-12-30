@@ -28,11 +28,8 @@ connection succeeded:
 
 When you use the cross-chain function for the first time, you need to associate your ETH address with the MOV address first, which will take a certain amount of time and consume a certain amount of gas to run the contract.
 
-![](../images/web-crosschain/web-crosschain6.png)
-
 After the binding is completed, the button changes to "Confirm", and the cross-chain function can be used.
 
-![](../images/web-crosschain/web-crosschain7.png)
 
 ### Minting/Financing
 
@@ -42,26 +39,16 @@ Or "monetize" MOV assets from Byone to MetaMask.
 
 The system will automatically read the available asset balance in your wallet and estimate the handling fee.
 
-![](../images/web-crosschain/web-crosschain8.png)
-
 If you have other addresses to receive assets, you can also use the address switch button to "mint/find coins" to your manually filled address.
-
-![](../images/web-crosschain/web-crosschain9.png)
 
 After confirming the currency and quantity, click Confirm, and the corresponding wallet will pop up a window to prompt you to authorize the transaction.
 
 Please pay attention to the final amount on the settlement page. The actual transaction amount is subject to wallet settlement.
 
-![](../images/web-crosschain/web-crosschain10.png)
-
 After confirmation, you can see that the transaction has been submitted, waiting for the mainnet to confirm.
-
-![](../images/web-crosschain/web-crosschain11.png)
 
 ### Finish
 
 After you submit your request, the feedback snapshot page will display the cross-chain information you applied for.
-
-![](../images/web-crosschain/web-crosschain12.png)
 
 After returning to the homepage, you can browse the progress of your cross-chain application submitted and your previous cross-chain records through the history records in the upper right corner.
