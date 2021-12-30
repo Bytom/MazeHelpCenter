@@ -49,8 +49,6 @@
 务必请您保存好生成的助记词，这是您恢复钱包的唯一途径。一旦助记词丢失您钱包内的数字资产将无法找回。
 
 ![](../images/web-connect/web-connect9.png)
-![](../images/web-connect/web-connect10.png)
-![](../images/web-connect/web-connect11.png)
 ![](../images/web-connect/web-connect12.png)
 
 创建成功后，即可使用您的Byone
@@ -89,10 +87,10 @@
 
 点击连接Byone
 
-![](../images/web-connect/web-connect21.png)
+![](../images/web-connect/web-connect22.png)
 
 连接成功后，页面已显示您的钱包连接状态信息
 
-![](../images/web-connect/web-connect22.png)
+![](../images/web-connect/web-connect21.png)
 
 接下来您已经可以使用MOV-web的相关功能了！
