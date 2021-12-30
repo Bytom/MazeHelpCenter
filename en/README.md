@@ -16,6 +16,7 @@ Welcome to Maze Help Center
 
 ### Maze Protocol
 
+- [Artist Application Process on Maze platform](maze/maze-artist-apply.md)
 - [CryptoSanguo: An NFT that you won’t worry about selling](maze/cryptosanguo-introduction.md)
 
 ### Bycoin Tutorial
