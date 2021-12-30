@@ -6,7 +6,7 @@
 
 ### 最新通知
 
-- [【置顶】邀请好友，领取限定NFT活动](/activity/cryptosanguo-nft-airdrop.md)
+- [【置顶】邀请好友，领取限定NFT活动](activity/cryptosanguo-nft-airdrop.md)
 
 ### 活动
 
