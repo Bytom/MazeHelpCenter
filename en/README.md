@@ -24,6 +24,8 @@ Welcome to Maze Help Center
 - [How to install Bycoin](bycoin/Bycoin-install.md)
 - [How to recharge cross-chain Bycoin](bycoin/Bycoin-crosschain-pay.md)
 - [How to withdraw cross-chain Bycoin](bycoin/Bycoin-withdraw.md)
+- [Instructions for using the address book function](bycoin/address-book.md)
+- [Discovery function module instructions](bycoin/discover.md)
 
 ### Byone Tutorial
 
