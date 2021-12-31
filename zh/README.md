@@ -25,6 +25,8 @@
 - [安装Bycoin](bycoin/bycoin-install.md)
 - [Bycoin如何跨链充值](bycoin/bycoin-crosschain-pay.md)
 - [Bycoin如何跨链提现](bycoin/bycoin-withdraw.md)
+- [地址簿功能使用说明](bycoin/address-book.md)
+- [发现功能模块使用说明](bycoin/discover.md)
 
 ### Byone基础教程
 
