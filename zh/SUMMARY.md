@@ -20,6 +20,7 @@
 
 ### Maze迷宫协议
 
+- [MAZ平台移动端操作手册](maze/maze-bycoin-guide.md)
 - [比原链迷宫协议艺术家申请指南](maze/maze-artist-apply.md)
 - [加密三国：一个你不愁卖不掉的NFT](maze/cryptosanguo-introduction.md)
 - [Maze元宇宙协议白皮书](maze/maze-whitepaper.md)
