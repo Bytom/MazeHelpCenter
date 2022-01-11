@@ -1,4 +1,4 @@
-## Bycoin Manual for MAZE Platform
+## Mobile Manual for MAZE Platform
 
 ### Enter the MAZE Platform
 
