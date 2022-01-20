@@ -51,86 +51,113 @@ A total of 179 CryptoSanguo SR NFTs were selected through a double standard, num
 
 Civilian hero NFTs with 1-2 rare appearance attributes, 432 in total.
 
-|No.|Name|No.|Name|No.|Name|No.|Name|No.|Name|No.|Name|
-|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|
-|1|CryptoSanguo #2018|81|CryptoSanguo #0691|161|CryptoSanguo #0287|241|CryptoSanguo #0168|321|CryptoSanguo #0657|401|CryptoSanguo #0566|
-|2|CryptoSanguo #1621|82|CryptoSanguo #0898|162|CryptoSanguo #1226|242|CryptoSanguo #0958|322|CryptoSanguo #1573|402|CryptoSanguo #0439|
-|3|CryptoSanguo #1857|83|CryptoSanguo #0203|163|CryptoSanguo #1897|243|CryptoSanguo #0851|323|CryptoSanguo #0849|403|CryptoSanguo #0889|
-|4|CryptoSanguo #1679|84|CryptoSanguo #0983|164|CryptoSanguo #0352|244|CryptoSanguo #1724|324|CryptoSanguo #0379|404|CryptoSanguo #0539|
-|5|CryptoSanguo #0700|85|CryptoSanguo #1851|165|CryptoSanguo #0666|245|CryptoSanguo #1172|325|CryptoSanguo #1294|405|CryptoSanguo #0330|
-|6|CryptoSanguo #1642|86|CryptoSanguo #1186|166|CryptoSanguo #0730|246|CryptoSanguo #1918|326|CryptoSanguo #1376|406|CryptoSanguo #1251|
-|7|CryptoSanguo #1443|87|CryptoSanguo #0672|167|CryptoSanguo #1812|247|CryptoSanguo #0137|327|CryptoSanguo #1400|407|CryptoSanguo #1401|
-|8|CryptoSanguo #1618|88|CryptoSanguo #1822|168|CryptoSanguo #1313|248|CryptoSanguo #0383|328|CryptoSanguo #0653|408|CryptoSanguo #1590|
-|9|CryptoSanguo #0553|89|CryptoSanguo #1924|169|CryptoSanguo #0121|249|CryptoSanguo #0883|329|CryptoSanguo #0375|409|CryptoSanguo #0502|
-|10|CryptoSanguo #1030|90|CryptoSanguo #1390|170|CryptoSanguo #0234|250|CryptoSanguo #1728|330|CryptoSanguo #1752|410|CryptoSanguo #1511|
-|11|CryptoSanguo #2034|91|CryptoSanguo #0347|171|CryptoSanguo #0659|251|CryptoSanguo #1859|331|CryptoSanguo #0739|411|CryptoSanguo #0390|
-|12|CryptoSanguo #1670|92|CryptoSanguo #0290|172|CryptoSanguo #0892|252|CryptoSanguo #1254|332|CryptoSanguo #1781|412|CryptoSanguo #1997|
-|13|CryptoSanguo #0354|93|CryptoSanguo #0343|173|CryptoSanguo #1533|253|CryptoSanguo #1881|333|CryptoSanguo #1073|413|CryptoSanguo #1978|
-|14|CryptoSanguo #0396|94|CryptoSanguo #0517|174|CryptoSanguo #0619|254|CryptoSanguo #0590|334|CryptoSanguo #0420|414|CryptoSanguo #0521|
-|15|CryptoSanguo #1904|95|CryptoSanguo #1144|175|CryptoSanguo #1725|255|CryptoSanguo #0458|335|CryptoSanguo #0857|415|CryptoSanguo #0751|
-|16|CryptoSanguo #0665|96|CryptoSanguo #2014|176|CryptoSanguo #2026|256|CryptoSanguo #0522|336|CryptoSanguo #1709|416|CryptoSanguo #0470|
-|17|CryptoSanguo #1405|97|CryptoSanguo #0135|177|CryptoSanguo #0484|257|CryptoSanguo #0824|337|CryptoSanguo #1890|417|CryptoSanguo #1301|
-|18|CryptoSanguo #1651|98|CryptoSanguo #1568|178|CryptoSanguo #1265|258|CryptoSanguo #1487|338|CryptoSanguo #1001|418|CryptoSanguo #2001|
-|19|CryptoSanguo #0888|99|CryptoSanguo #2031|179|CryptoSanguo #1703|259|CryptoSanguo #1543|339|CryptoSanguo #1864|419|CryptoSanguo #1957|
-|20|CryptoSanguo #0990|100|CryptoSanguo #0190|180|CryptoSanguo #1185|260|CryptoSanguo #0205|340|CryptoSanguo #1065|420|CryptoSanguo #0595|
-|21|CryptoSanguo #1722|101|CryptoSanguo #0332|181|CryptoSanguo #1998|261|CryptoSanguo #1084|341|CryptoSanguo #1693|421|CryptoSanguo #0189|
-|22|CryptoSanguo #1732|102|CryptoSanguo #0766|182|CryptoSanguo #0219|262|CryptoSanguo #1516|342|CryptoSanguo #0311|422|CryptoSanguo #1806|
-|23|CryptoSanguo #0746|103|CryptoSanguo #1216|183|CryptoSanguo #1298|263|CryptoSanguo #0714|343|CryptoSanguo #2028|423|CryptoSanguo #0982|
-|24|CryptoSanguo #1054|104|CryptoSanguo #0210|184|CryptoSanguo #1494|264|CryptoSanguo #0836|344|CryptoSanguo #1188|424|CryptoSanguo #0143|
-|25|CryptoSanguo #0118|105|CryptoSanguo #0313|185|CryptoSanguo #1769|265|CryptoSanguo #1287|345|CryptoSanguo #1368|425|CryptoSanguo #0405|
-|26|CryptoSanguo #0455|106|CryptoSanguo #0761|186|CryptoSanguo #1916|266|CryptoSanguo #1639|346|CryptoSanguo #1961|426|CryptoSanguo #1146|
-|27|CryptoSanguo #1740|107|CryptoSanguo #1126|187|CryptoSanguo #0433|267|CryptoSanguo #0187|347|CryptoSanguo #0676|427|CryptoSanguo #1984|
-|28|CryptoSanguo #1808|108|CryptoSanguo #1862|188|CryptoSanguo #0727|268|CryptoSanguo #0840|348|CryptoSanguo #1735|428|CryptoSanguo #0519|
-|29|CryptoSanguo #0149|109|CryptoSanguo #1888|189|CryptoSanguo #1137|269|CryptoSanguo #1831|349|CryptoSanguo #0336|429|CryptoSanguo #0998|
-|30|CryptoSanguo #1107|110|CryptoSanguo #1514|190|CryptoSanguo #1784|270|CryptoSanguo #1630|350|CryptoSanguo #0749|430|CryptoSanguo #0759|
-|31|CryptoSanguo #0598|111|CryptoSanguo #0599|191|CryptoSanguo #1386|271|CryptoSanguo #0926|351|CryptoSanguo #1088|431|CryptoSanguo #0726|
-|32|CryptoSanguo #1053|112|CryptoSanguo #0600|192|CryptoSanguo #0108|272|CryptoSanguo #1452|352|CryptoSanguo #1538|432|CryptoSanguo #2042|
-|33|CryptoSanguo #1061|113|CryptoSanguo #0813|193|CryptoSanguo #1029|273|CryptoSanguo #1486|353|CryptoSanguo #1999|    |    |
-|34|CryptoSanguo #1582|114|CryptoSanguo #0174|194|CryptoSanguo #0692|274|CryptoSanguo #0306|354|CryptoSanguo #1158|    |    |
-|35|CryptoSanguo #0557|115|CryptoSanguo #0409|195|CryptoSanguo #0866|275|CryptoSanguo #0832|355|CryptoSanguo #1813|    |    |
-|36|CryptoSanguo #0567|116|CryptoSanguo #0841|196|CryptoSanguo #0345|276|CryptoSanguo #1566|356|CryptoSanguo #1191|    |    |
-|37|CryptoSanguo #0801|117|CryptoSanguo #0979|197|CryptoSanguo #1817|277|CryptoSanguo #1819|357|CryptoSanguo #0501|    |    |
-|38|CryptoSanguo #1565|118|CryptoSanguo #1682|198|CryptoSanguo #1909|278|CryptoSanguo #0141|358|CryptoSanguo #0443|    |    |
-|39|CryptoSanguo #0115|119|CryptoSanguo #0864|199|CryptoSanguo #0631|279|CryptoSanguo #1870|359|CryptoSanguo #1409|    |    |
-|40|CryptoSanguo #1491|120|CryptoSanguo #1510|200|CryptoSanguo #0737|280|CryptoSanguo #0655|360|CryptoSanguo #0736|    |    |
-|41|CryptoSanguo #0466|121|CryptoSanguo #0658|201|CryptoSanguo #0863|281|CryptoSanguo #0794|361|CryptoSanguo #1646|    |    |
-|42|CryptoSanguo #1537|122|CryptoSanguo #0896|202|CryptoSanguo #1854|282|CryptoSanguo #1872|362|CryptoSanguo #1991|    |    |
-|43|CryptoSanguo #1360|123|CryptoSanguo #1442|203|CryptoSanguo #2010|283|CryptoSanguo #0800|363|CryptoSanguo #0520|    |    |
-|44|CryptoSanguo #0588|124|CryptoSanguo #1858|204|CryptoSanguo #1382|284|CryptoSanguo #1903|364|CryptoSanguo #0789|    |    |
-|45|CryptoSanguo #1559|125|CryptoSanguo #1327|205|CryptoSanguo #1456|285|CryptoSanguo #1982|365|CryptoSanguo #1702|    |    |
-|46|CryptoSanguo #1560|126|CryptoSanguo #1638|206|CryptoSanguo #1705|286|CryptoSanguo #1066|366|CryptoSanguo #1123|    |    |
-|47|CryptoSanguo #0861|127|CryptoSanguo #2041|207|CryptoSanguo #1057|287|CryptoSanguo #1518|367|CryptoSanguo #1847|    |    |
-|48|CryptoSanguo #0927|128|CryptoSanguo #1010|208|CryptoSanguo #1941|288|CryptoSanguo #0158|368|CryptoSanguo #0752|    |    |
-|49|CryptoSanguo #0577|129|CryptoSanguo #1315|209|CryptoSanguo #1932|289|CryptoSanguo #0243|369|CryptoSanguo #0156|    |    |
-|50|CryptoSanguo #1629|130|CryptoSanguo #0463|210|CryptoSanguo #2029|290|CryptoSanguo #1699|370|CryptoSanguo #1471|    |    |
-|51|CryptoSanguo #1665|131|CryptoSanguo #0298|211|CryptoSanguo #0552|291|CryptoSanguo #0918|371|CryptoSanguo #0642|    |    |
-|52|CryptoSanguo #1777|132|CryptoSanguo #0355|212|CryptoSanguo #1175|292|CryptoSanguo #2003|372|CryptoSanguo #0767|    |    |
-|53|CryptoSanguo #0462|133|CryptoSanguo #1370|213|CryptoSanguo #0579|293|CryptoSanguo #1598|373|CryptoSanguo #0338|    |    |
-|54|CryptoSanguo #1352|134|CryptoSanguo #1406|214|CryptoSanguo #1751|294|CryptoSanguo #1181|374|CryptoSanguo #0640|    |    |
-|55|CryptoSanguo #1564|135|CryptoSanguo #1943|215|CryptoSanguo #1039|295|CryptoSanguo #1664|375|CryptoSanguo #0192|    |    |
-|56|CryptoSanguo #0101|136|CryptoSanguo #1388|216|CryptoSanguo #1305|296|CryptoSanguo #1796|376|CryptoSanguo #0992|    |    |
-|57|CryptoSanguo #0925|137|CryptoSanguo #1830|217|CryptoSanguo #0175|297|CryptoSanguo #1633|377|CryptoSanguo #1479|    |    |
-|58|CryptoSanguo #1762|138|CryptoSanguo #0624|218|CryptoSanguo #1104|298|CryptoSanguo #0478|378|CryptoSanguo #1756|    |    |
-|59|CryptoSanguo #1691|139|CryptoSanguo #1288|219|CryptoSanguo #0970|299|CryptoSanguo #0853|379|CryptoSanguo #1109|    |    |
-|60|CryptoSanguo #1763|140|CryptoSanguo #0184|220|CryptoSanguo #0984|300|CryptoSanguo #1792|380|CryptoSanguo #0826|    |    |
-|61|CryptoSanguo #1786|141|CryptoSanguo #0673|221|CryptoSanguo #1284|301|CryptoSanguo #0194|381|CryptoSanguo #1798|    |    |
-|62|CryptoSanguo #0991|142|CryptoSanguo #0594|222|CryptoSanguo #0116|302|CryptoSanguo #1849|382|CryptoSanguo #0503|    |    |
-|63|CryptoSanguo #1715|143|CryptoSanguo #0860|223|CryptoSanguo #0230|303|CryptoSanguo #1965|383|CryptoSanguo #0542|    |    |
-|64|CryptoSanguo #0370|144|CryptoSanguo #0947|224|CryptoSanguo #0377|304|CryptoSanguo #1585|384|CryptoSanguo #0496|    |    |
-|65|CryptoSanguo #1606|145|CryptoSanguo #1513|225|CryptoSanguo #0839|305|CryptoSanguo #0479|385|CryptoSanguo #0570|    |    |
-|66|CryptoSanguo #1089|146|CryptoSanguo #1550|226|CryptoSanguo #0449|306|CryptoSanguo #1641|386|CryptoSanguo #1079|    |    |
-|67|CryptoSanguo #1673|147|CryptoSanguo #0278|227|CryptoSanguo #0945|307|CryptoSanguo #0510|387|CryptoSanguo #1845|    |    |
-|68|CryptoSanguo #1562|148|CryptoSanguo #1417|228|CryptoSanguo #0339|308|CryptoSanguo #1800|388|CryptoSanguo #0282|    |    |
-|69|CryptoSanguo #0825|149|CryptoSanguo #1741|229|CryptoSanguo #1544|309|CryptoSanguo #0591|389|CryptoSanguo #0422|    |    |
-|70|CryptoSanguo #1026|150|CryptoSanguo #1561|230|CryptoSanguo #2033|310|CryptoSanguo #0871|390|CryptoSanguo #1198|    |    |
-|71|CryptoSanguo #1344|151|CryptoSanguo #0637|231|CryptoSanguo #1985|311|CryptoSanguo #1584|391|CryptoSanguo #1567|    |    |
-|72|CryptoSanguo #0904|152|CryptoSanguo #0711|232|CryptoSanguo #0485|312|CryptoSanguo #2016|392|CryptoSanguo #0446|    |    |
-|73|CryptoSanguo #1477|153|CryptoSanguo #0770|233|CryptoSanguo #0585|313|CryptoSanguo #0563|393|CryptoSanguo #0715|    |    |
-|74|CryptoSanguo #0140|154|CryptoSanguo #1203|234|CryptoSanguo #1262|314|CryptoSanguo #1122|394|CryptoSanguo #1558|    |    |
-|75|CryptoSanguo #1719|155|CryptoSanguo #0185|235|CryptoSanguo #1394|315|CryptoSanguo #0238|395|CryptoSanguo #1795|    |    |
-|76|CryptoSanguo #1527|156|CryptoSanguo #1425|236|CryptoSanguo #0123|316|CryptoSanguo #1340|396|CryptoSanguo #1805|    |    |
-|77|CryptoSanguo #0400|157|CryptoSanguo #1098|237|CryptoSanguo #1731|317|CryptoSanguo #1407|397|CryptoSanguo #0139|    |    |
-|78|CryptoSanguo #0136|158|CryptoSanguo #0623|238|CryptoSanguo #0309|318|CryptoSanguo #0395|398|CryptoSanguo #1252|    |    |
-|79|CryptoSanguo #0497|159|CryptoSanguo #1610|239|CryptoSanguo #1939|319|CryptoSanguo #0573|399|CryptoSanguo #0305|    |    |
-|80|CryptoSanguo #0554|160|CryptoSanguo #0267|240|CryptoSanguo #0935|320|CryptoSanguo #1824|400|CryptoSanguo #1056|    |    |
-
+|No.|Name|No.|Name|No.|Name|No.|Name|
+|:----|:----|:----|:----|:----|:----|:----|:----|
+|1|CryptoSanguo #2018|109|CryptoSanguo #1888|217|CryptoSanguo #0175|325|CryptoSanguo #1294|
+|2|CryptoSanguo #1621|110|CryptoSanguo #1514|218|CryptoSanguo #1104|326|CryptoSanguo #1376|
+|3|CryptoSanguo #1857|111|CryptoSanguo #0599|219|CryptoSanguo #0970|327|CryptoSanguo #1400|
+|4|CryptoSanguo #1679|112|CryptoSanguo #0600|220|CryptoSanguo #0984|328|CryptoSanguo #0653|
+|5|CryptoSanguo #0700|113|CryptoSanguo #0813|221|CryptoSanguo #1284|329|CryptoSanguo #0375|
+|6|CryptoSanguo #1642|114|CryptoSanguo #0174|222|CryptoSanguo #0116|330|CryptoSanguo #1752|
+|7|CryptoSanguo #1443|115|CryptoSanguo #0409|223|CryptoSanguo #0230|331|CryptoSanguo #0739|
+|8|CryptoSanguo #1618|116|CryptoSanguo #0841|224|CryptoSanguo #0377|332|CryptoSanguo #1781|
+|9|CryptoSanguo #0553|117|CryptoSanguo #0979|225|CryptoSanguo #0839|333|CryptoSanguo #1073|
+|10|CryptoSanguo #1030|118|CryptoSanguo #1682|226|CryptoSanguo #0449|334|CryptoSanguo #0420|
+|11|CryptoSanguo #2034|119|CryptoSanguo #0864|227|CryptoSanguo #0945|335|CryptoSanguo #0857|
+|12|CryptoSanguo #1670|120|CryptoSanguo #1510|228|CryptoSanguo #0339|336|CryptoSanguo #1709|
+|13|CryptoSanguo #0354|121|CryptoSanguo #0658|229|CryptoSanguo #1544|337|CryptoSanguo #1890|
+|14|CryptoSanguo #0396|122|CryptoSanguo #0896|230|CryptoSanguo #2033|338|CryptoSanguo #1001|
+|15|CryptoSanguo #1904|123|CryptoSanguo #1442|231|CryptoSanguo #1985|339|CryptoSanguo #1864|
+|16|CryptoSanguo #0665|124|CryptoSanguo #1858|232|CryptoSanguo #0485|340|CryptoSanguo #1065|
+|17|CryptoSanguo #1405|125|CryptoSanguo #1327|233|CryptoSanguo #0585|341|CryptoSanguo #1693|
+|18|CryptoSanguo #1651|126|CryptoSanguo #1638|234|CryptoSanguo #1262|342|CryptoSanguo #0311|
+|19|CryptoSanguo #0888|127|CryptoSanguo #2041|235|CryptoSanguo #1394|343|CryptoSanguo #2028|
+|20|CryptoSanguo #0990|128|CryptoSanguo #1010|236|CryptoSanguo #0123|344|CryptoSanguo #1188|
+|21|CryptoSanguo #1722|129|CryptoSanguo #1315|237|CryptoSanguo #1731|345|CryptoSanguo #1368|
+|22|CryptoSanguo #1732|130|CryptoSanguo #0463|238|CryptoSanguo #0309|346|CryptoSanguo #1961|
+|23|CryptoSanguo #0746|131|CryptoSanguo #0298|239|CryptoSanguo #1939|347|CryptoSanguo #0676|
+|24|CryptoSanguo #1054|132|CryptoSanguo #0355|240|CryptoSanguo #0935|348|CryptoSanguo #1735|
+|25|CryptoSanguo #0118|133|CryptoSanguo #1370|241|CryptoSanguo #0168|349|CryptoSanguo #0336|
+|26|CryptoSanguo #0455|134|CryptoSanguo #1406|242|CryptoSanguo #0958|350|CryptoSanguo #0749|
+|27|CryptoSanguo #1740|135|CryptoSanguo #1943|243|CryptoSanguo #0851|351|CryptoSanguo #1088|
+|28|CryptoSanguo #1808|136|CryptoSanguo #1388|244|CryptoSanguo #1724|352|CryptoSanguo #1538|
+|29|CryptoSanguo #0149|137|CryptoSanguo #1830|245|CryptoSanguo #1172|353|CryptoSanguo #1999|
+|30|CryptoSanguo #1107|138|CryptoSanguo #0624|246|CryptoSanguo #1918|354|CryptoSanguo #1158|
+|31|CryptoSanguo #0598|139|CryptoSanguo #1288|247|CryptoSanguo #0137|355|CryptoSanguo #1813|
+|32|CryptoSanguo #1053|140|CryptoSanguo #0184|248|CryptoSanguo #0383|356|CryptoSanguo #1191|
+|33|CryptoSanguo #1061|141|CryptoSanguo #0673|249|CryptoSanguo #0883|357|CryptoSanguo #0501|
+|34|CryptoSanguo #1582|142|CryptoSanguo #0594|250|CryptoSanguo #1728|358|CryptoSanguo #0443|
+|35|CryptoSanguo #0557|143|CryptoSanguo #0860|251|CryptoSanguo #1859|359|CryptoSanguo #1409|
+|36|CryptoSanguo #0567|144|CryptoSanguo #0947|252|CryptoSanguo #1254|360|CryptoSanguo #0736|
+|37|CryptoSanguo #0801|145|CryptoSanguo #1513|253|CryptoSanguo #1881|361|CryptoSanguo #1646|
+|38|CryptoSanguo #1565|146|CryptoSanguo #1550|254|CryptoSanguo #0590|362|CryptoSanguo #1991|
+|39|CryptoSanguo #0115|147|CryptoSanguo #0278|255|CryptoSanguo #0458|363|CryptoSanguo #0520|
+|40|CryptoSanguo #1491|148|CryptoSanguo #1417|256|CryptoSanguo #0522|364|CryptoSanguo #0789|
+|41|CryptoSanguo #0466|149|CryptoSanguo #1741|257|CryptoSanguo #0824|365|CryptoSanguo #1702|
+|42|CryptoSanguo #1537|150|CryptoSanguo #1561|258|CryptoSanguo #1487|366|CryptoSanguo #1123|
+|43|CryptoSanguo #1360|151|CryptoSanguo #0637|259|CryptoSanguo #1543|367|CryptoSanguo #1847|
+|44|CryptoSanguo #0588|152|CryptoSanguo #0711|260|CryptoSanguo #0205|368|CryptoSanguo #0752|
+|45|CryptoSanguo #1559|153|CryptoSanguo #0770|261|CryptoSanguo #1084|369|CryptoSanguo #0156|
+|46|CryptoSanguo #1560|154|CryptoSanguo #1203|262|CryptoSanguo #1516|370|CryptoSanguo #1471|
+|47|CryptoSanguo #0861|155|CryptoSanguo #0185|263|CryptoSanguo #0714|371|CryptoSanguo #0642|
+|48|CryptoSanguo #0927|156|CryptoSanguo #1425|264|CryptoSanguo #0836|372|CryptoSanguo #0767|
+|49|CryptoSanguo #0577|157|CryptoSanguo #1098|265|CryptoSanguo #1287|373|CryptoSanguo #0338|
+|50|CryptoSanguo #1629|158|CryptoSanguo #0623|266|CryptoSanguo #1639|374|CryptoSanguo #0640|
+|51|CryptoSanguo #1665|159|CryptoSanguo #1610|267|CryptoSanguo #0187|375|CryptoSanguo #0192|
+|52|CryptoSanguo #1777|160|CryptoSanguo #0267|268|CryptoSanguo #0840|376|CryptoSanguo #0992|
+|53|CryptoSanguo #0462|161|CryptoSanguo #0287|269|CryptoSanguo #1831|377|CryptoSanguo #1479|
+|54|CryptoSanguo #1352|162|CryptoSanguo #1226|270|CryptoSanguo #1630|378|CryptoSanguo #1756|
+|55|CryptoSanguo #1564|163|CryptoSanguo #1897|271|CryptoSanguo #0926|379|CryptoSanguo #1109|
+|56|CryptoSanguo #0101|164|CryptoSanguo #0352|272|CryptoSanguo #1452|380|CryptoSanguo #0826|
+|57|CryptoSanguo #0925|165|CryptoSanguo #0666|273|CryptoSanguo #1486|381|CryptoSanguo #1798|
+|58|CryptoSanguo #1762|166|CryptoSanguo #0730|274|CryptoSanguo #0306|382|CryptoSanguo #0503|
+|59|CryptoSanguo #1691|167|CryptoSanguo #1812|275|CryptoSanguo #0832|383|CryptoSanguo #0542|
+|60|CryptoSanguo #1763|168|CryptoSanguo #1313|276|CryptoSanguo #1566|384|CryptoSanguo #0496|
+|61|CryptoSanguo #1786|169|CryptoSanguo #0121|277|CryptoSanguo #1819|385|CryptoSanguo #0570|
+|62|CryptoSanguo #0991|170|CryptoSanguo #0234|278|CryptoSanguo #0141|386|CryptoSanguo #1079|
+|63|CryptoSanguo #1715|171|CryptoSanguo #0659|279|CryptoSanguo #1870|387|CryptoSanguo #1845|
+|64|CryptoSanguo #0370|172|CryptoSanguo #0892|280|CryptoSanguo #0655|388|CryptoSanguo #0282|
+|65|CryptoSanguo #1606|173|CryptoSanguo #1533|281|CryptoSanguo #0794|389|CryptoSanguo #0422|
+|66|CryptoSanguo #1089|174|CryptoSanguo #0619|282|CryptoSanguo #1872|390|CryptoSanguo #1198|
+|67|CryptoSanguo #1673|175|CryptoSanguo #1725|283|CryptoSanguo #0800|391|CryptoSanguo #1567|
+|68|CryptoSanguo #1562|176|CryptoSanguo #2026|284|CryptoSanguo #1903|392|CryptoSanguo #0446|
+|69|CryptoSanguo #0825|177|CryptoSanguo #0484|285|CryptoSanguo #1982|393|CryptoSanguo #0715|
+|70|CryptoSanguo #1026|178|CryptoSanguo #1265|286|CryptoSanguo #1066|394|CryptoSanguo #1558|
+|71|CryptoSanguo #1344|179|CryptoSanguo #1703|287|CryptoSanguo #1518|395|CryptoSanguo #1795|
+|72|CryptoSanguo #0904|180|CryptoSanguo #1185|288|CryptoSanguo #0158|396|CryptoSanguo #1805|
+|73|CryptoSanguo #1477|181|CryptoSanguo #1998|289|CryptoSanguo #0243|397|CryptoSanguo #0139|
+|74|CryptoSanguo #0140|182|CryptoSanguo #0219|290|CryptoSanguo #1699|398|CryptoSanguo #1252|
+|75|CryptoSanguo #1719|183|CryptoSanguo #1298|291|CryptoSanguo #0918|399|CryptoSanguo #0305|
+|76|CryptoSanguo #1527|184|CryptoSanguo #1494|292|CryptoSanguo #2003|400|CryptoSanguo #1056|
+|77|CryptoSanguo #0400|185|CryptoSanguo #1769|293|CryptoSanguo #1598|401|CryptoSanguo #0566|
+|78|CryptoSanguo #0136|186|CryptoSanguo #1916|294|CryptoSanguo #1181|402|CryptoSanguo #0439|
+|79|CryptoSanguo #0497|187|CryptoSanguo #0433|295|CryptoSanguo #1664|403|CryptoSanguo #0889|
+|80|CryptoSanguo #0554|188|CryptoSanguo #0727|296|CryptoSanguo #1796|404|CryptoSanguo #0539|
+|81|CryptoSanguo #0691|189|CryptoSanguo #1137|297|CryptoSanguo #1633|405|CryptoSanguo #0330|
+|82|CryptoSanguo #0898|190|CryptoSanguo #1784|298|CryptoSanguo #0478|406|CryptoSanguo #1251|
+|83|CryptoSanguo #0203|191|CryptoSanguo #1386|299|CryptoSanguo #0853|407|CryptoSanguo #1401|
+|84|CryptoSanguo #0983|192|CryptoSanguo #0108|300|CryptoSanguo #1792|408|CryptoSanguo #1590|
+|85|CryptoSanguo #1851|193|CryptoSanguo #1029|301|CryptoSanguo #0194|409|CryptoSanguo #0502|
+|86|CryptoSanguo #1186|194|CryptoSanguo #0692|302|CryptoSanguo #1849|410|CryptoSanguo #1511|
+|87|CryptoSanguo #0672|195|CryptoSanguo #0866|303|CryptoSanguo #1965|411|CryptoSanguo #0390|
+|88|CryptoSanguo #1822|196|CryptoSanguo #0345|304|CryptoSanguo #1585|412|CryptoSanguo #1997|
+|89|CryptoSanguo #1924|197|CryptoSanguo #1817|305|CryptoSanguo #0479|413|CryptoSanguo #1978|
+|90|CryptoSanguo #1390|198|CryptoSanguo #1909|306|CryptoSanguo #1641|414|CryptoSanguo #0521|
+|91|CryptoSanguo #0347|199|CryptoSanguo #0631|307|CryptoSanguo #0510|415|CryptoSanguo #0751|
+|92|CryptoSanguo #0290|200|CryptoSanguo #0737|308|CryptoSanguo #1800|416|CryptoSanguo #0470|
+|93|CryptoSanguo #0343|201|CryptoSanguo #0863|309|CryptoSanguo #0591|417|CryptoSanguo #1301|
+|94|CryptoSanguo #0517|202|CryptoSanguo #1854|310|CryptoSanguo #0871|418|CryptoSanguo #2001|
+|95|CryptoSanguo #1144|203|CryptoSanguo #2010|311|CryptoSanguo #1584|419|CryptoSanguo #1957|
+|96|CryptoSanguo #2014|204|CryptoSanguo #1382|312|CryptoSanguo #2016|420|CryptoSanguo #0595|
+|97|CryptoSanguo #0135|205|CryptoSanguo #1456|313|CryptoSanguo #0563|421|CryptoSanguo #0189|
+|98|CryptoSanguo #1568|206|CryptoSanguo #1705|314|CryptoSanguo #1122|422|CryptoSanguo #1806|
+|99|CryptoSanguo #2031|207|CryptoSanguo #1057|315|CryptoSanguo #0238|423|CryptoSanguo #0982|
+|100|CryptoSanguo #0190|208|CryptoSanguo #1941|316|CryptoSanguo #1340|424|CryptoSanguo #0143|
+|101|CryptoSanguo #0332|209|CryptoSanguo #1932|317|CryptoSanguo #1407|425|CryptoSanguo #0405|
+|102|CryptoSanguo #0766|210|CryptoSanguo #2029|318|CryptoSanguo #0395|426|CryptoSanguo #1146|
+|103|CryptoSanguo #1216|211|CryptoSanguo #0552|319|CryptoSanguo #0573|427|CryptoSanguo #1984|
+|104|CryptoSanguo #0210|212|CryptoSanguo #1175|320|CryptoSanguo #1824|428|CryptoSanguo #0519|
+|105|CryptoSanguo #0313|213|CryptoSanguo #0579|321|CryptoSanguo #0657|429|CryptoSanguo #0998|
+|106|CryptoSanguo #0761|214|CryptoSanguo #1751|322|CryptoSanguo #1573|430|CryptoSanguo #0759|
+|107|CryptoSanguo #1126|215|CryptoSanguo #1039|323|CryptoSanguo #0849|431|CryptoSanguo #0726|
+|108|CryptoSanguo #1862|216|CryptoSanguo #1305|324|CryptoSanguo #0379|432|CryptoSanguo #2042|
