@@ -10,6 +10,7 @@ Welcome to Maze Help Center
 
 ### Activity
 
+- [CryptoSanguo Rarity List](activity/cryptosanguo-nft-rarity.md)
 - [Tutorial of claiming CryptoSanguo NFT](activity/cryptosanguo-nft-receive.md)
 - [【finished】Cryptosanguo NFT Airdrop](activity/cryptosanguo-nft-airdrop.md)
 - [1000 limited CryptoSanguo NFTs Airdrop is coming!!!](activity/cryptosanguo-nft-rule.md)

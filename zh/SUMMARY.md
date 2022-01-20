@@ -14,6 +14,7 @@
 
 ### 活动
 
+- [加密三国普通稀有度一览](activity/cryptosanguo-nft-rarity.md)
 - [预注册活动加密三国NFT领取流程](activity/cryptosanguo-nft-receive.md)
 - [【已结束】邀请好友，领取限定NFT活动](activity/cryptosanguo-nft-airdrop.md)
 - [加密三国知多少？百科竞赛开启，瓜分活动大奖](activity/cryptosanguo-nft-paradise.md)
