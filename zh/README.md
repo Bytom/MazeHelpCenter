@@ -6,6 +6,7 @@
 
 ### 最新通知
 
+- [【置顶】Vapor资产迁移须知](bmc/bmc-migrate.md)
 - [【置顶】预注册活动加密三国NFT领取流程](activity/cryptosanguo-nft-receive.md)
 
 ### 活动
@@ -22,6 +23,10 @@
 - [比原链迷宫协议艺术家申请指南](maze/maze-artist-apply.md)
 - [加密三国：一个你不愁卖不掉的NFT](maze/cryptosanguo-introduction.md)
 - [Maze元宇宙协议白皮书](maze/maze-whitepaper.md)
+
+### BMC（比原侧链）
+
+- [Vapor资产迁移须知](bmc/bmc-migrate.md)
 
 ### Bycoin基础教程
 

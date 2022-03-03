@@ -6,6 +6,7 @@ Welcome to Maze Help Center
 
 ### Announcement
 
+- [Vapor assets mirgate to BMC](bmc/bmc-migrate.md)
 - [Tutorial of claiming CryptoSanguo NFT](activity/cryptosanguo-nft-receive.md)
 
 ### Activity
@@ -22,6 +23,10 @@ Welcome to Maze Help Center
 - [Mobile Manual for MAZE Platform](maze/maze-bycoin-guide.md.md)
 - [Artist Application Process on Maze platform](maze/maze-artist-apply.md)
 - [CryptoSanguo: An NFT that you won’t worry about selling](maze/cryptosanguo-introduction.md)
+
+### BMC(Bytom Sidechain)
+
+- [Vapor assets mirgate to BMC](bmc/bmc-migrate.md)
 
 ### Bycoin Tutorial
 
