@@ -27,6 +27,8 @@
 ### BMC（比原侧链）
 
 - [Vapor资产迁移须知](bmc/bmc-migrate.md)
+- [BMC超导交易指南（Web端）](bmc/web-supertx.md)
+- [BMC超导交易指南（移动端）](bmc/bycoin-supertx.md)
 
 ### Bycoin基础教程
 
@@ -37,7 +39,7 @@
 - [地址簿功能使用说明](bycoin/address-book.md)
 - [发现功能模块使用说明](bycoin/discover.md)
 
-### Byone基础教程
+### Web基础教程
 
 - [Bycoin至Byone无缝迁移方案](byone/Bycoin-to-Byone.md)
 - [MOV Web连接Byone钱包](byone/Web-connect-Byone.md)

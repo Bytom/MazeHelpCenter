@@ -23,6 +23,12 @@
 - [Artist Application Process on Maze platform](maze/maze-artist-apply.md)
 - [CryptoSanguo: An NFT that you won’t worry about selling](maze/cryptosanguo-introduction.md)
 
+### BMC(Bytom Sidechain)
+
+- [Tutorials of BMC SuperTx（Web）](bmc/web-supertx.md)
+- [Tutorials of BMC SuperTX (Bycoin)](bmc/bycoin-supertx.md)
+- [Vapor assets mirgate to BMC](bmc/bmc-migrate.md)
+
 ### Bycoin Tutorial
 
 - [How to install Bycoin](bycoin/Bycoin-install.md)

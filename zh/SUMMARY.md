@@ -31,6 +31,8 @@
 ### BMC（比原侧链）
 
 - [Vapor资产迁移须知](bmc/bmc-migrate.md)
+- [BMC超导交易指南（Web端）](bmc/web-supertx.md)
+- [BMC超导交易指南（移动端）](bmc/bycoin-supertx.md)
 
 ### Bycoin基础教程
 
