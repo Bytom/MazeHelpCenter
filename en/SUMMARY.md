@@ -18,8 +18,8 @@
 
 ### Maze Protocol
 
-- [Web Manual for MAZE Platform](maze/maze-byone-guide.md.md)
-- [Bycoin Manual for MAZE Platform](maze/maze-bycoin-guide.md.md)
+- [Web Manual for MAZE Platform](maze/maze-byone-guide.md)
+- [Bycoin Manual for MAZE Platform](maze/maze-bycoin-guide.md)
 - [Artist Application Process on Maze platform](maze/maze-artist-apply.md)
 - [CryptoSanguo: An NFT that you won’t worry about selling](maze/cryptosanguo-introduction.md)
 
