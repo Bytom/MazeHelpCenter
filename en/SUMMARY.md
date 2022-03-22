@@ -25,6 +25,7 @@
 
 ### BMC(Bytom Sidechain)
 
+- [Tutorials of BMC SuperTx Liquidity Mining](bmc/liquidity-mining.md)
 - [Tutorials of BMC SuperTx（Web）](bmc/web-supertx.md)
 - [Tutorials of BMC SuperTX (Bycoin)](bmc/bycoin-supertx.md)
 - [Vapor assets mirgate to BMC](bmc/bmc-migrate.md)
