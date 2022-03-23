@@ -10,8 +10,8 @@
 
 ### 最新通知
 
-- [【置顶】Vapor资产迁移须知](bmc/bmc-migrate.md)
-- [【置顶】预注册活动加密三国NFT领取流程](activity/cryptosanguo-nft-receive.md)
+- [BMC跨链教程](bycoin/bmc-crosschain.md)
+- [BMC超导流动性挖矿指南](bmc/liquidity-mining.md)
 
 ### 活动
 
@@ -44,7 +44,7 @@
 - [Bycoin如何跨链提现](bycoin/bycoin-withdraw.md)
 - [地址簿功能使用说明](bycoin/address-book.md)
 - [发现功能模块使用说明](bycoin/discover.md)
-
+- [BMC跨链教程](bycoin/bmc-crosschain.md)
 
 ### Byone基础教程
 
