@@ -6,7 +6,8 @@
 
 ### Announcement
 
-- [Tutorial of claiming CryptoSanguo NFT](activity/cryptosanguo-nft-receive.md)
+- [BMC SuperTx Liquidity Mining Activity is Begining ](bmc/liquidity-mining-start.md)
+- [Tutorials of BMC SuperTx Liquidity Mining](bmc/liquidity-mining.md)
 
 ### Activity
 

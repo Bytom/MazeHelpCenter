@@ -10,6 +10,7 @@
 
 ### 最新通知
 
+- [BMC超导流动性挖矿开启](bmc/liquidity-mining-start.md)
 - [BMC跨链教程](bycoin/bmc-crosschain.md)
 - [BMC超导流动性挖矿指南](bmc/liquidity-mining.md)
 

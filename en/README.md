@@ -6,8 +6,8 @@ Welcome to Maze Help Center
 
 ### Announcement
 
-- [Vapor assets mirgate to BMC](bmc/bmc-migrate.md)
-- [Tutorial of claiming CryptoSanguo NFT](activity/cryptosanguo-nft-receive.md)
+- [BMC SuperTx Liquidity Mining Activity is Begining ](bmc/liquidity-mining-start.md)
+- [Tutorials of BMC SuperTx Liquidity Mining](bmc/liquidity-mining.md)
 
 ### Activity
 
