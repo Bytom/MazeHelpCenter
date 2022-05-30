@@ -47,7 +47,7 @@
 - [发现功能模块使用说明](bycoin/discover.md)
 - [BMC跨链教程](bycoin/bmc-crosschain.md)
 
-### Byone基础教程
+### Web基础教程
 
 - [Bycoin至Byone无缝迁移方案](byone/Bycoin-to-Byone.md)
 - [MOV Web连接Byone钱包](byone/Web-connect-Byone.md)

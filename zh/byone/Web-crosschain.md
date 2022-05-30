@@ -1,10 +1,10 @@
 ## Web跨链教程
 
-打开链接：https://supertx.bymov.io/swap
+打开链接：https://bmcbridge.bytom.io/cross-chain
 
-目前MOV-web可以通过MetaMask，支持以太坊网络上ETH、USDT、USDC、DAI四个币种的跨链功能。您可选择左侧跨链功能。
+目前MOV-web可以连接MetaMask和Byone，支持ETH->BMC, Bytom->BMC,BMC->ETH,BMC->Bytom
 
-![](../images/cross-chain/cross1.png)
+![](../images/cross-chain/web-crosschain1.png)
 
 ### 连接钱包
 
@@ -14,51 +14,56 @@
 
 Byone授权连接：
 
-![](../images/cross-chain/cross2.png)
+![](../images/cross-chain/web-crosschain2.png)
 
 MetaMask授权连接：
 
-![](../images/cross-chain/cross3.png)
-![](../images/cross-chain/cross4.png)
+![](../images/cross-chain/web-crosschain3.png)
+![](../images/cross-chain/web-crosschain4.png)
 
-### 地址绑定
+### BMC->ETH跨链
 
-当您初次使用跨链功能时，需要先将您的ETH地址与MOV地址相关联，这将需要一定的时间，并消耗一定Gas费用运行只能合约。
+以跨链USDT为例
+
+选择BMC网络，并选择USDT币种
+
+![](../images/cross-chain/web-crosschain5.png)
+
+输入需要跨链的USDT数量
+注意手续费，如果手续费不足，则不允许跨链
 
 ![](../images/cross-chain/web-crosschain6.png)
 
-绑定完成后，按钮变更为“确认”，跨链功能可以使用。
+点击提交，并在Metamask中确认
 
 ![](../images/cross-chain/web-crosschain7.png)
 
-### 铸币/融币
-
-您可以通过右上角的TAB，切换操作模式，决定用MetaMask里面的以太坊资产“铸币”至Byone。
-
-或从Byone将MOV资产“融币”至MetaMask。
-
-系统将自动读取您钱包内的可用资产余额，并预估手续费。
+交易确认成功，开始跨链
 
 ![](../images/cross-chain/web-crosschain8.png)
 
-如果您有其他接收资产的地址，您也可以通过地址切换按钮，将您的资产“铸币/融币”至您手动填写的地址。
+等待到账
+
+
+## Bytom->BMC跨链
+
+以跨链BTM为例
+
+选择BMC网络，并选择BTM币种
 
 ![](../images/cross-chain/web-crosschain9.png)
 
-确认币种和数量后，点击确认，对应的钱包将弹窗提示您授权交易。
-
-请留意结算页面的最终金额，实际成交金额以钱包结算为准。
+输入需要跨链的BTM数量
+注意手续费，如果手续费不足，则不允许跨链
 
 ![](../images/cross-chain/web-crosschain10.png)
 
-确认后可以看到交易已经被提交，等待主网确认。
+点击提交，在Byone中确认签名
 
 ![](../images/cross-chain/web-crosschain11.png)
 
-### 完成
-
-当您提交请求之后，会反馈快照页面显示您申请的跨链信息。
+提交成功
 
 ![](../images/cross-chain/web-crosschain12.png)
 
-返回主页后，您可以通过右上角历史记录，浏览您提交的跨链申请进度，以及您之前的跨链记录。
+等待到账
