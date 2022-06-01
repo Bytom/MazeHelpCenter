@@ -6,8 +6,7 @@
 
 ### Announcement
 
-- [BMC SuperTx Liquidity Mining Activity is Begining ](bmc/liquidity-mining-start.md)
-- [Tutorials of BMC SuperTx Liquidity Mining](bmc/liquidity-mining.md)
+- [CryptoSanguo NFT Migration Instructions on Maze World 2.0](maze/maze-migrate.md)
 
 ### Activity
 
@@ -19,6 +18,7 @@
 
 ### Maze Protocol
 
+- [CryptoSanguo NFT Migration Instructions on Maze World 2.0](maze/maze-migrate.md)
 - [Web Manual for MAZE Platform](maze/maze-byone-guide.md)
 - [Bycoin Manual for MAZE Platform](maze/maze-bycoin-guide.md)
 - [Artist Application Process on Maze platform](maze/maze-artist-apply.md)

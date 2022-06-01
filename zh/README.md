@@ -6,9 +6,7 @@
 
 ### 最新通知
 
-- [BMC超导流动性挖矿开启](bmc/liquidity-mining-start.md)
-- [BMC跨链教程](bycoin/bmc-crosschain.md)
-- [BMC超导流动性挖矿指南](bmc/liquidity-mining.md)
+- [Maze V2 CryptoSanguo NFT迁移说明](maze/maze-migrate.md)
 
 ### 活动
 
@@ -19,6 +17,7 @@
 
 ### Maze迷宫协议
 
+- [Maze V2 CryptoSanguo NFT迁移说明](maze/maze-migrate.md)
 - [MAZ平台Web端操作手册](maze/maze-byone-guide.md)
 - [MAZ平台移动端操作手册](maze/maze-bycoin-guide.md)
 - [比原链迷宫协议艺术家申请指南](maze/maze-artist-apply.md)
