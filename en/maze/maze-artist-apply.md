@@ -45,7 +45,7 @@ Users who have passed the audit and become an artist can click [Mine] on the nav
 
 #### 2.1.Enter Maze platform website
 
-Enter the URL in browser: https://maz.network
+Enter the URL in browser: https://v2.maze.market/
 
 ![](../images/artist-apply/artist-apply8.png)
 

@@ -4,7 +4,7 @@
 
 #### 1.1 进入移动端【迷宫协议】
 
-在Bycoin的Bytom主网状态下，点击MAZ图标进入【迷宫协议】
+在Bycoin的BMC网络状态下，点击MAZ图标进入【迷宫协议】
 
 ![](../images/artist-apply/artist-apply1.png)
 
@@ -45,7 +45,7 @@
 
 #### 2.1.进入Web端【迷宫协议】
 
-在浏览器中输入Web端迷宫协议访问网站：https://maz.network
+在浏览器中输入Web端迷宫协议访问网站：https://v2.maze.market/
 
 ![](../images/artist-apply/artist-apply8.png)
 
