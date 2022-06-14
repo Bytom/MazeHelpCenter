@@ -6,6 +6,8 @@
 
 ### 最新通知
 
+
+- [Maze V2 移动端操作手册](maze/maze-mobile-guide.md)
 - [Maze V2 CryptoSanguo NFT迁移说明](maze/maze-migrate.md)
 
 ### 活动
@@ -17,6 +19,7 @@
 
 ### Maze迷宫协议
 
+- [Maze V2 移动端操作手册](maze/maze-mobile-guide.md)
 - [Maze V2 CryptoSanguo NFT迁移说明](maze/maze-migrate.md)
 - [MAZ平台Web端操作手册](maze/maze-byone-guide.md)
 - [MAZ平台移动端操作手册](maze/maze-bycoin-guide.md)
