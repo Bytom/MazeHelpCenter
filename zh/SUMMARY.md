@@ -32,6 +32,7 @@
 
 ### BMC（比原侧链）
 
+- [WBTM指南](bmc/wbtm-conception.md)
 - [BMC超导流动性挖矿指南](bmc/liquidity-mining.md)
 - [Vapor资产迁移须知](bmc/bmc-migrate.md)
 - [BMC超导交易指南（Web端）](bmc/web-supertx.md)
