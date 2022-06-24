@@ -6,6 +6,7 @@ Welcome to Maze Help Center
 
 ### Announcement
 
+- [Maze Blindbox Guide](maze/maze-blindbox.md)
 - [CryptoSanguo NFT Migration Instructions on Maze World 2.0](maze/maze-migrate.md)
 
 ### Activity
@@ -18,6 +19,7 @@ Welcome to Maze Help Center
 
 ### Maze Protocol
 
+- [Maze Blindbox Guide](maze/maze-blindbox.md)
 - [CryptoSanguo NFT Migration Instructions on Maze World 2.0](maze/maze-migrate.md)
 - [Web Manual for MAZE Platform](maze/maze-byone-guide.md)
 - [Mobile Manual for MAZE Platform](maze/maze-bycoin-guide.md)
