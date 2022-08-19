@@ -6,7 +6,7 @@ Welcome to Maze Help Center
 
 ### Announcement
 
-- [Maze Blindbox Guide](maze/maze-blindbox.md)
+- [Guidance Of AvatarⅡ：How To Buy Mystery Spar And Synthesize](maze/maze-spar.md)
 - [CryptoSanguo NFT Migration Instructions on Maze World 2.0](maze/maze-migrate.md)
 
 ### Activity
@@ -19,6 +19,7 @@ Welcome to Maze Help Center
 
 ### Maze Protocol
 
+- [Guidance Of AvatarⅡ：How To Buy Mystery Spar And Synthesize](maze/maze-spar.md)
 - [Maze Blindbox Guide](maze/maze-blindbox.md)
 - [CryptoSanguo NFT Migration Instructions on Maze World 2.0](maze/maze-migrate.md)
 - [Web Manual for MAZE Platform](maze/maze-byone-guide.md)

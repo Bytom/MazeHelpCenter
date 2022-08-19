@@ -10,7 +10,7 @@
 
 ### 最新通知
 
-- [Maze 盲盒开盒指南](maze/maze-blindbox.md)
+- [AvatarⅡ晶石购买和合成指南](maze/maze-spar.md)
 - [Maze V2 移动端操作手册](maze/maze-mobile-guide.md)
 - [Maze V2 CryptoSanguo NFT迁移说明](maze/maze-migrate.md)
 
@@ -23,6 +23,7 @@
 
 ### Maze迷宫协议
 
+- [AvatarⅡ晶石购买和合成指南](maze/maze-spar.md)
 - [Maze 盲盒开盒指南](maze/maze-blindbox.md)
 - [Maze V2 移动端操作手册](maze/maze-mobile-guide.md)
 - [Maze V2 CryptoSanguo NFT迁移说明](maze/maze-migrate.md)
