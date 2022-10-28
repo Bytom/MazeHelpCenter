@@ -4,10 +4,11 @@
 
 ------
 
-### Announcement
+### Maze AI
 
-- [Guidance Of AvatarⅡ：How To Buy Mystery Spar And Synthesize](maze/maze-spar.md)
-- [CryptoSanguo NFT Migration Instructions on Maze World 2.0](maze/maze-migrate.md)
+- [Quick Start Guide](ai/quick-start-guide.md)
+- [Commands Manual](ai/commands-manual.md)
+- [Frequently Asked Questions](ai/FAQ.md)
 
 ### Activity
 

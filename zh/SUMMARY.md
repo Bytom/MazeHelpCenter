@@ -8,11 +8,11 @@
 
 ------
 
-### 最新通知
+### Maze AI
 
-- [AvatarⅡ晶石购买和合成指南](maze/maze-spar.md)
-- [Maze V2 移动端操作手册](maze/maze-mobile-guide.md)
-- [Maze V2 CryptoSanguo NFT迁移说明](maze/maze-migrate.md)
+- [快速开始](ai/quick-start-guide.md)
+- [AI指令指南](ai/commands-manual.md)
+- [常见问题](ai/FAQ.md)
 
 ### 活动
 
